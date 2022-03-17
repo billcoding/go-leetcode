@@ -1,4 +1,4 @@
-# 1sparsearray
+# sparsearray
 
 稀疏数组
 ---
